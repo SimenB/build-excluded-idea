@@ -18,3 +18,5 @@ Build #IU-242.23726.103, built on October 23, 2024
 IntelliJ IDEA 2024.3 (Ultimate Edition)
 Build #IU-243.21565.193, built on November 13, 2024
 ```
+
+YouTrack ticket: https://youtrack.jetbrains.com/issue/IDEA-363445
